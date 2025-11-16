@@ -1,0 +1,23 @@
+{
+  "name": "lodashlike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bednar22/LodashLike.git"
+  },
+  "author": "Maciej Bednarski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bednar22/LodashLike/issues"
+  },
+  "homepage": "https://github.com/Bednar22/LodashLike#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
