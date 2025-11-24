@@ -1,5 +1,5 @@
 import { describe, it, expectTypeOf, expect } from 'vitest';
-import { makePair } from '../src/makePair';
+import { makePair } from '../array';
 
 describe('2. makePair()', () => {
   it('should create an array at runtime', () => {

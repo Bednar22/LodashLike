@@ -1,5 +1,5 @@
 import { describe, it, expectTypeOf, expect } from 'vitest';
-import { objMap } from '../src/objMap';
+import { objMap } from '../object';
 
 describe('3. objMap()', () => {
   it('should map values at runtime', () => {
